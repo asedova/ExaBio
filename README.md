@@ -6,7 +6,7 @@ An HPC workflow pipleline to infer protein structure from gene sequence, then us
 This section discusses the data for this project.
 
 ## Compute
-We intend to use various ORNL compute resources such as Summit, CADES, etc. 
+We intend to use various ORNL compute resources such as Summit, CADES, DGX, Raptor etc. 
 
 ## Software
 Here are the links/refs to the software that we intend to use as part of this project.
