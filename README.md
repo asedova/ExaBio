@@ -3,7 +3,10 @@ Towards exascale computational bio for genome to function.
 An HPC workflow pipleline to infer protein structure from gene sequence, then use structural and bioinformatics tooks to infer function.
 
 ## Data
+This section discusses the data for this project.
 
+## Compute
+We intend to use various ORNL compute resources such as Summit, CADES, etc. 
 
 ## Software
 Here are the links/refs to the software that we intend to use as part of this project.
@@ -29,3 +32,6 @@ The PAW workflow manager:
 https://github.com/pawtools/nopaw
 
 https://github.com/pawtools/db-launcher
+
+## Workflows
+This section describes end-to-end workflows that will be enacted as part of this project.
