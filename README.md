@@ -35,3 +35,13 @@ https://github.com/pawtools/db-launcher
 
 ## Workflows
 This section describes end-to-end workflows that will be enacted as part of this project.
+
+End-to-end stages
+1. MSA
+2. SSpred
+3. CMpred
+4. Build Restrained System
+5. ExaFold
+6. Something
+
+Meta: coupled learning/ analysis
