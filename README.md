@@ -33,15 +33,19 @@ https://github.com/pawtools/nopaw
 
 https://github.com/pawtools/db-launcher
 
+DNSS secondary structure prediction:
+https://github.com/multicom-toolbox/DNSS/tree/master/lib/cudamat-rbm
+
 ## Workflows
 This section describes end-to-end workflows that will be enacted as part of this project.
 
-End-to-end stages
+End-to-end stages, workflow 1
 1. MSA
 2. SSpred
-3. CMpred
+3. CCMpred
 4. Build Restrained System
 5. ExaFold
-6. Something
+6. Run MD to test stability
+7. PPI interactions: rigid docking, MD, co-evo hot spots
 
 Meta: coupled learning/ analysis
