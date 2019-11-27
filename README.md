@@ -36,7 +36,7 @@ https://github.com/pawtools/nopaw
 https://github.com/pawtools/db-launcher
 
 DNSS secondary structure prediction:
-https://github.com/multicom-toolbox/DNSS/tree/master/lib/cudamat-rbm
+https://github.com/multicom-toolbox/DNSS
 
 ## Workflows
 This section describes end-to-end workflows that will be enacted as part of this project.
