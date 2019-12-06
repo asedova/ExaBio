@@ -22,7 +22,7 @@ ExaFold (in progress, uses OpenMM instead of AMBER):
 https://github.com/jkwoods/ExaFold
 
 
-DeepMetaPsiCov: Uses other codes to get info to use a DNN to predict contacts for the protein folding step
+DeepMetaPsiCov: Uses other codes to get info to use a DNN (Deep Neural Network) to predict contacts for the protein folding step
 Uses Pytorch-- let's see if inference will just run out of the box on GPUs!
 Uses CCMPred and other codes that are referenced in the doc
 https://github.com/psipred/DeepMetaPSICOV
