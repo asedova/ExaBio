@@ -15,7 +15,7 @@ OpenMM:
 https://github.com/openmm/openmm
 
 AMBER version of ExaFold (CPU only), this one is completely functional:
-https://github.com/jkwoods/ProteinFoldingPipeline </br>
+https://github.com/BSDExabio/openFoldTools</br>
 ^ repo also includes script (and instructions) for generating customizable basic restraints from exsisting PDB files with BioPython.
 
 ExaFold (in progress, uses OpenMM instead of AMBER):
